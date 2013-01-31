@@ -4,7 +4,7 @@ Next do the same with the Pictuce: Pic2
 
 To use the program run it and enter the coordinates in the following order:
 
-top right - top left - bottom right - bottom left
+top left - top right - bottom left - bottom right
 
 Now select prove and the program should show you the slope and next the lengths.
 
